@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mwllc.aternos.me",
+    "ip": "orfe.aternos.host",
     "port": 17277,
     "version": "",
     "try-creative": false
