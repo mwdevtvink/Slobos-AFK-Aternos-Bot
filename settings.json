@@ -59,13 +59,13 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
